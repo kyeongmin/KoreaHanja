@@ -1,1500 +1,1800 @@
 [
  {
+   "level": 7,
    "character": "家 ",
    "meaning": "집",
    "sound": "가"
  },
  {
+   "level": 7,
    "character": "歌 ",
    "meaning": "노래",
    "sound": "가"
  },
  {
+   "level": 6,
    "character": "角 ",
    "meaning": "뿔",
    "sound": "각"
  },
  {
+   "level": 6,
    "character": "各 ",
    "meaning": "각각",
    "sound": "각"
  },
  {
+   "level": 7,
    "character": "間 ",
    "meaning": "사이",
    "sound": "간"
  },
  {
+   "level": 6,
    "character": "感 ",
    "meaning": "느낄",
    "sound": "감"
  },
  {
+   "level": 7,
    "character": "江 ",
    "meaning": "강",
    "sound": "강"
  },
  {
+   "level": 6,
    "character": "強 ",
    "meaning": "강할",
    "sound": "강"
  },
  {
+   "level": 6,
    "character": "開 ",
    "meaning": "열",
    "sound": "개"
  },
  {
+   "level": 7,
    "character": "車 ",
    "meaning": "수레",
    "sound": "거/차"
  },
  {
+   "level": 6,
    "character": "京 ",
    "meaning": "서울",
    "sound": "경"
  },
  {
+   "level": 6,
    "character": "計 ",
    "meaning": "셀",
    "sound": "계"
  },
  {
+   "level": 6,
    "character": "界 ",
    "meaning": "지경",
    "sound": "계"
  },
  {
+   "level": 6,
    "character": "古 ",
    "meaning": "예",
    "sound": "고"
  },
  {
+   "level": 6,
    "character": "高 ",
    "meaning": "높을",
    "sound": "고"
  },
  {
+   "level": 6,
    "character": "苦 ",
    "meaning": "쓸",
    "sound": "고"
  },
  {
+   "level": 7,
    "character": "工 ",
    "meaning": "만들",
    "sound": "공"
  },
  {
+   "level": 7,
    "character": "空 ",
    "meaning": "빌",
    "sound": "공"
  },
  {
+   "level": 6,
    "character": "功 ",
    "meaning": "공적",
    "sound": "공"
  },
  {
+   "level": 6,
    "character": "共 ",
    "meaning": "함께",
    "sound": "공"
  },
  {
+   "level": 6,
    "character": "公 ",
    "meaning": "공평할",
    "sound": "공"
  },
  {
+   "level": 6,
    "character": "科 ",
    "meaning": "과목",
    "sound": "과"
  },
  {
+   "level": 6,
    "character": "果 ",
    "meaning": "열매",
    "sound": "과"
  },
  {
+   "level": 6,
    "character": "光 ",
    "meaning": "빛",
    "sound": "광"
  },
  {
+   "level": 8,
    "character": "校",
    "meaning": "학교",
    "sound": "교"
  },
  {
+   "level": 8,
    "character": "敎",
    "meaning": "가르칠",
    "sound": "교"
  },
  {
+   "level": 6,
    "character": "交 ",
    "meaning": "사귈",
    "sound": "교"
  },
  {
+   "level": 8,
    "character": "九",
    "meaning": "아홉",
    "sound": "구"
  },
  {
+   "level": 7,
    "character": "口 ",
    "meaning": "입",
    "sound": "구"
  },
  {
+   "level": 6,
    "character": "球 ",
    "meaning": "공",
    "sound": "구"
  },
  {
+   "level": 6,
    "character": "區 ",
    "meaning": "구분할",
    "sound": "구"
  },
  {
+   "level": 8,
    "character": "國",
    "meaning": "나라",
    "sound": "국"
  },
  {
+   "level": 8,
    "character": "軍",
    "meaning": "군사",
    "sound": "군"
  },
  {
+   "level": 6,
    "character": "郡 ",
    "meaning": "고을",
    "sound": "군"
  },
  {
+   "level": 6,
    "character": "根 ",
    "meaning": "뿌리",
    "sound": "근"
  },
  {
+   "level": 6,
    "character": "近 ",
    "meaning": "가까울",
    "sound": "근"
  },
  {
+   "level": 6,
    "character": "今 ",
    "meaning": "이제",
    "sound": "금"
  },
  {
+   "level": 8,
    "character": "金",
    "meaning": "쇠/성씨",
    "sound": "금/김"
  },
  {
+   "level": 6,
    "character": "級 ",
    "meaning": "등급",
    "sound": "급"
  },
  {
+   "level": 6,
    "character": "急 ",
    "meaning": "급할",
    "sound": "급"
  },
  {
+   "level": 7,
    "character": "記 ",
    "meaning": "기록할",
    "sound": "기"
  },
  {
+   "level": 7,
    "character": "氣 ",
    "meaning": "기운",
    "sound": "기"
  },
  {
+   "level": 7,
    "character": "旗 ",
    "meaning": "기",
    "sound": "기"
  },
  {
+   "level": 8,
    "character": "南",
    "meaning": "남녘",
    "sound": "남"
  },
  {
+   "level": 7,
    "character": "男 ",
    "meaning": "사내",
    "sound": "남"
  },
  {
+   "level": 7,
    "character": "內 ",
    "meaning": "안",
    "sound": "내"
  },
  {
+   "level": 8,
    "character": "女 ",
    "meaning": "여자",
    "sound": "녀"
  },
  {
+   "level": 8,
    "character": "年 ",
    "meaning": "해",
    "sound": "년"
  },
  {
+   "level": 7,
    "character": "農 ",
    "meaning": "농사",
    "sound": "농"
  },
  {
+   "level": 6,
    "character": "多 ",
    "meaning": "많을",
    "sound": "다"
  },
  {
+   "level": 6,
    "character": "短 ",
    "meaning": "짧을",
    "sound": "단"
  },
  {
+   "level": 7,
    "character": "答 ",
    "meaning": "답할",
    "sound": "답"
  },
  {
+   "level": 6,
    "character": "堂 ",
    "meaning": "집",
    "sound": "당"
  },
  {
+   "level": 8,
    "character": "大 ",
    "meaning": "큰",
    "sound": "대"
  },
  {
+   "level": 6,
    "character": "對 ",
    "meaning": "대할",
    "sound": "대"
  },
  {
+   "level": 6,
    "character": "代 ",
    "meaning": "세대/대신할",
    "sound": "대"
  },
  {
+   "level": 6,
    "character": "待 ",
    "meaning": "기다릴",
    "sound": "대"
  },
  {
+   "level": 7,
    "character": "道 ",
    "meaning": "길",
    "sound": "도"
  },
  {
+   "level": 6,
    "character": "圖 ",
    "meaning": "그림",
    "sound": "도"
  },
  {
+   "level": 6,
    "character": "度 ",
    "meaning": "법도,정도/헤아릴",
    "sound": "도/탁"
  },
  {
+   "level": 6,
    "character": "讀 ",
    "meaning": "읽을/구절",
    "sound": "독/두"
  },
  {
+   "level": 8,
    "character": "東 ",
    "meaning": "동녘",
    "sound": "동"
  },
  {
+   "level": 7,
    "character": "冬 ",
    "meaning": "겨울",
    "sound": "동"
  },
  {
+   "level": 7,
    "character": "動 ",
    "meaning": "움직일",
    "sound": "동"
  },
  {
+   "level": 7,
    "character": "同 ",
    "meaning": "한가지",
    "sound": "동"
  },
  {
+   "level": 6,
    "character": "童 ",
    "meaning": "아이",
    "sound": "동"
  },
  {
+   "level": 7,
    "character": "洞 ",
    "meaning": "마을/밝을",
    "sound": "동/통"
  },
  {
+   "level": 6,
    "character": "頭 ",
    "meaning": "머리",
    "sound": "두"
  },
  {
+   "level": 7,
    "character": "登 ",
    "meaning": "오를",
    "sound": "등"
  },
  {
+   "level": 6,
    "character": "等 ",
    "meaning": "무리/같을",
    "sound": "등"
  },
  {
+   "level": 6,
    "character": "樂 ",
    "meaning": "즐길/음악/좋아할",
    "sound": "락/악/요"
  },
  {
+   "level": 7,
    "character": "來 ",
    "meaning": "올",
    "sound": "래"
  },
  {
+   "level": 7,
    "character": "力 ",
    "meaning": "힘",
    "sound": "력"
  },
  {
+   "level": 6,
    "character": "禮 ",
    "meaning": "예도",
    "sound": "례"
  },
  {
+   "level": 6,
    "character": "例 ",
    "meaning": "법식",
    "sound": "례"
  },
  {
+   "level": 7,
    "character": "老 ",
    "meaning": "늙을",
    "sound": "로"
  },
  {
+   "level": 6,
    "character": "路 ",
    "meaning": "길",
    "sound": "로"
  },
  {
+   "level": 6,
    "character": "綠 ",
    "meaning": "푸를",
    "sound": "록"
  },
  {
+   "level": 8,
    "character": "六 ",
    "meaning": "여섯",
    "sound": "륙"
  },
  {
+   "level": 7,
    "character": "里 ",
    "meaning": "마을",
    "sound": "리"
  },
  {
+   "level": 6,
    "character": "李 ",
    "meaning": "오얏",
    "sound": "리"
  },
  {
+   "level": 6,
    "character": "理 ",
    "meaning": "다스릴",
    "sound": "리"
  },
  {
+   "level": 6,
    "character": "利 ",
    "meaning": "이로울",
    "sound": "리"
  },
  {
+   "level": 7,
    "character": "林 ",
    "meaning": "수풀",
    "sound": "림"
  },
  {
+   "level": 7,
    "character": "立 ",
    "meaning": "설",
    "sound": "립"
  },
  {
+   "level": 8,
    "character": "萬 ",
    "meaning": "일만",
    "sound": "만"
  },
  {
+   "level": 7,
    "character": "每 ",
    "meaning": "매양",
    "sound": "매"
  },
  {
+   "level": 7,
    "character": "面 ",
    "meaning": "낯",
    "sound": "면"
  },
  {
+   "level": 7,
    "character": "名 ",
    "meaning": "이름",
    "sound": "명"
  },
  {
+   "level": 7,
    "character": "命 ",
    "meaning": "목숨",
    "sound": "명"
  },
  {
+   "level": 6,
    "character": "明 ",
    "meaning": "밝을",
    "sound": "명"
  },
  {
+   "level": 8,
    "character": "母 ",
    "meaning": "어미",
    "sound": "모"
  },
  {
+   "level": 8,
    "character": "木 ",
    "meaning": "나무",
    "sound": "목"
  },
  {
+   "level": 6,
    "character": "目 ",
    "meaning": "눈",
    "sound": "목"
  },
  {
+   "level": 8,
    "character": "門 ",
    "meaning": "문",
    "sound": "문"
  },
  {
+   "level": 7,
    "character": "文 ",
    "meaning": "글월",
    "sound": "문"
  },
  {
+   "level": 7,
    "character": "問 ",
    "meaning": "물을",
    "sound": "문"
  },
  {
+   "level": 6,
    "character": "聞 ",
    "meaning": "들을",
    "sound": "문"
  },
  {
+   "level": 7,
    "character": "物 ",
    "meaning": "물건",
    "sound": "물"
  },
  {
+   "level": 6,
    "character": "美 ",
    "meaning": "아름다울",
    "sound": "미"
  },
  {
+   "level": 6,
    "character": "米 ",
    "meaning": "쌀",
    "sound": "미"
  },
  {
+   "level": 8,
    "character": "民 ",
    "meaning": "백성",
    "sound": "민"
  },
  {
+   "level": 6,
    "character": "朴 ",
    "meaning": "성씨/순박할",
    "sound": "박"
  },
  {
+   "level": 6,
    "character": "班 ",
    "meaning": "나눌",
    "sound": "반"
  },
  {
+   "level": 6,
    "character": "反 ",
    "meaning": "돌이킬",
    "sound": "반"
  },
  {
+   "level": 6,
    "character": "半 ",
    "meaning": "반",
    "sound": "반"
  },
  {
+   "level": 6,
    "character": "發 ",
    "meaning": "필",
    "sound": "발"
  },
  {
+   "level": 7,
    "character": "方 ",
    "meaning": "모",
    "sound": "방"
  },
  {
+   "level": 6,
    "character": "放 ",
    "meaning": "놓을",
    "sound": "방"
  },
  {
+   "level": 8,
    "character": "白 ",
    "meaning": "흰",
    "sound": "백"
  },
  {
+   "level": 7,
    "character": "百 ",
    "meaning": "일백",
    "sound": "백"
  },
  {
+   "level": 6,
    "character": "番 ",
    "meaning": "차례",
    "sound": "번"
  },
  {
+   "level": 6,
    "character": "別 ",
    "meaning": "다를",
    "sound": "별"
  },
  {
+   "level": 6,
    "character": "病 ",
    "meaning": "병",
    "sound": "병"
  },
  {
+   "level": 6,
    "character": "服 ",
    "meaning": "옷",
    "sound": "복"
  },
  {
+   "level": 6,
    "character": "本 ",
    "meaning": "근본",
    "sound": "본"
  },
  {
+   "level": 8,
    "character": "父 ",
    "meaning": "아비",
    "sound": "부"
  },
  {
+   "level": 7,
    "character": "夫 ",
    "meaning": "남편",
    "sound": "부"
  },
  {
+   "level": 6,
    "character": "部 ",
    "meaning": "떼",
    "sound": "부"
  },
  {
+   "level": 8,
    "character": "北 ",
    "meaning": "북녘/달아날",
    "sound": "북/배"
  },
  {
+   "level": 6,
    "character": "分 ",
    "meaning": "나눌",
    "sound": "분"
  },
  {
+   "level": 7,
    "character": "不 ",
    "meaning": "아닐",
    "sound": "불/부"
  },
  {
+   "level": 8,
    "character": "四 ",
    "meaning": "넉",
    "sound": "사"
  },
  {
+   "level": 7,
    "character": "事 ",
    "meaning": "일",
    "sound": "사"
  },
  {
+   "level": 6,
    "character": "死 ",
    "meaning": "죽을",
    "sound": "사"
  },
  {
+   "level": 6,
    "character": "使 ",
    "meaning": "하여금/부릴",
    "sound": "사"
  },
  {
+   "level": 6,
    "character": "社 ",
    "meaning": "모일",
    "sound": "사"
  },
  {
+   "level": 8,
    "character": "山 ",
    "meaning": "뫼",
    "sound": "산"
  },
  {
+   "level": 7,
    "character": "算 ",
    "meaning": "셈",
    "sound": "산"
  },
  {
+   "level": 8,
    "character": "三 ",
    "meaning": "석",
    "sound": "삼"
  },
  {
+   "level": 7,
    "character": "上 ",
    "meaning": "위",
    "sound": "상"
  },
  {
+   "level": 7,
    "character": "色 ",
    "meaning": "빛",
    "sound": "색"
  },
  {
+   "level": 8,
    "character": "生 ",
    "meaning": "날",
    "sound": "생"
  },
  {
+   "level": 8,
    "character": "西 ",
    "meaning": "서녘",
    "sound": "서"
  },
  {
+   "level": 6,
    "character": "書 ",
    "meaning": "글",
    "sound": "서"
  },
  {
+   "level": 7,
    "character": "夕 ",
    "meaning": "저녁",
    "sound": "석"
  },
  {
+   "level": 6,
    "character": "石 ",
    "meaning": "돌",
    "sound": "석"
  },
  {
+   "level": 6,
    "character": "席 ",
    "meaning": "자리",
    "sound": "석"
  },
  {
+   "level": 8,
    "character": "先 ",
    "meaning": "먼저",
    "sound": "선"
  },
  {
+   "level": 6,
    "character": "線 ",
    "meaning": "줄",
    "sound": "선"
  },
  {
+   "level": 6,
    "character": "雪 ",
    "meaning": "눈",
    "sound": "설"
  },
  {
+   "level": 7,
    "character": "姓 ",
    "meaning": "성씨",
    "sound": "성"
  },
  {
+   "level": 6,
    "character": "成 ",
    "meaning": "이룰",
    "sound": "성"
  },
  {
+   "level": 6,
    "character": "省 ",
    "meaning": "살필/덜",
    "sound": "성/생"
  },
  {
+   "level": 7,
    "character": "世 ",
    "meaning": "누리",
    "sound": "세"
  },
  {
+   "level": 8,
    "character": "小 ",
    "meaning": "작을",
    "sound": "소"
  },
  {
+   "level": 7,
    "character": "所 ",
    "meaning": "바",
    "sound": "소"
  },
  {
+   "level": 7,
    "character": "少 ",
    "meaning": "적을",
    "sound": "소"
  },
  {
+   "level": 6,
    "character": "消 ",
    "meaning": "사라질",
    "sound": "소"
  },
  {
+   "level": 6,
    "character": "速 ",
    "meaning": "빠를",
    "sound": "속"
  },
  {
+   "level": 6,
    "character": "孫 ",
    "meaning": "손자",
    "sound": "손"
  },
  {
+   "level": 8,
    "character": "水 ",
    "meaning": "물",
    "sound": "수"
  },
  {
+   "level": 7,
    "character": "手 ",
    "meaning": "손",
    "sound": "수"
  },
  {
+   "level": 6,
    "character": "樹 ",
    "meaning": "나무",
    "sound": "수"
  },
  {
+   "level": 7,
    "character": "數 ",
    "meaning": "셈/자주",
    "sound": "수/삭"
  },
  {
+   "level": 6,
    "character": "術 ",
    "meaning": "재주",
    "sound": "술"
  },
  {
+   "level": 6,
    "character": "習 ",
    "meaning": "익힐",
    "sound": "습"
  },
  {
+   "level": 6,
    "character": "勝 ",
    "meaning": "이길",
    "sound": "승"
  },
  {
+   "level": 7,
    "character": "市 ",
    "meaning": "시장",
    "sound": "시"
  },
  {
+   "level": 7,
    "character": "時 ",
    "meaning": "때",
    "sound": "시"
  },
  {
+   "level": 6,
    "character": "始 ",
    "meaning": "비로소",
    "sound": "시"
  },
  {
+   "level": 7,
    "character": "植 ",
    "meaning": "심을",
    "sound": "식"
  },
  {
+   "level": 6,
    "character": "式 ",
    "meaning": "법",
    "sound": "식"
  },
  {
+   "level": 7,
    "character": "食 ",
    "meaning": "밥/먹일",
    "sound": "식/사"
  },
  {
+   "level": 6,
    "character": "新 ",
    "meaning": "새",
    "sound": "신"
  },
  {
+   "level": 6,
    "character": "信 ",
    "meaning": "믿을",
    "sound": "신"
  },
  {
+   "level": 6,
    "character": "身 ",
    "meaning": "몸",
    "sound": "신"
  },
  {
+   "level": 6,
    "character": "神 ",
    "meaning": "귀신",
    "sound": "신"
  },
  {
+   "level": 8,
    "character": "室 ",
    "meaning": "집",
    "sound": "실"
  },
  {
+   "level": 6,
    "character": "失 ",
    "meaning": "잃을",
    "sound": "실"
  },
  {
+   "level": 7,
    "character": "心 ",
    "meaning": "마음",
    "sound": "심"
  },
  {
+   "level": 8,
    "character": "十 ",
    "meaning": "열",
    "sound": "십"
  },
  {
+   "level": 7,
    "character": "安 ",
    "meaning": "편안할",
    "sound": "안"
  },
  {
+   "level": 6,
    "character": "愛 ",
    "meaning": "사랑",
    "sound": "애"
  },
  {
+   "level": 6,
    "character": "野 ",
    "meaning": "들",
    "sound": "야"
  },
  {
+   "level": 6,
    "character": "夜 ",
    "meaning": "밤",
    "sound": "야"
  },
  {
+   "level": 6,
    "character": "藥 ",
    "meaning": "약",
    "sound": "약"
  },
  {
+   "level": 6,
    "character": "弱 ",
    "meaning": "약할",
    "sound": "약"
  },
  {
+   "level": 6,
    "character": "洋 ",
    "meaning": "큰바다",
    "sound": "양"
  },
  {
+   "level": 6,
    "character": "陽 ",
    "meaning": "볕",
    "sound": "양"
  },
  {
+   "level": 7,
    "character": "語 ",
    "meaning": "말씀",
    "sound": "어"
  },
  {
+   "level": 6,
    "character": "言 ",
    "meaning": "말씀",
    "sound": "언"
  },
  {
+   "level": 6,
    "character": "業 ",
    "meaning": "일",
    "sound": "업"
  },
  {
+   "level": 7,
    "character": "然 ",
    "meaning": "그러할",
    "sound": "연"
  },
  {
+   "level": 6,
    "character": "永 ",
    "meaning": "길",
    "sound": "영"
  },
  {
+   "level": 6,
    "character": "英 ",
    "meaning": "꽃부리",
    "sound": "영"
  },
  {
+   "level": 8,
    "character": "五 ",
    "meaning": "다섯",
    "sound": "오"
  },
  {
+   "level": 7,
    "character": "午 ",
    "meaning": "낮",
    "sound": "오"
  },
  {
+   "level": 6,
    "character": "溫 ",
    "meaning": "따뜻할",
    "sound": "온"
  },
  {
+   "level": 8,
    "character": "王 ",
    "meaning": "임금",
    "sound": "왕"
  },
  {
+   "level": 8,
    "character": "外 ",
    "meaning": "바깥",
    "sound": "외"
  },
  {
+   "level": 6,
    "character": "用 ",
    "meaning": "쓸",
    "sound": "용"
  },
  {
+   "level": 6,
    "character": "勇 ",
    "meaning": "날랠",
    "sound": "용"
  },
  {
+   "level": 7,
    "character": "右 ",
    "meaning": "오른",
    "sound": "우"
  },
  {
+   "level": 6,
    "character": "運 ",
    "meaning": "옮길/운",
    "sound": "운"
  },
  {
+   "level": 6,
    "character": "遠 ",
    "meaning": "멀",
    "sound": "원"
  },
  {
+   "level": 6,
    "character": "園 ",
    "meaning": "동산",
    "sound": "원"
  },
  {
+   "level": 8,
    "character": "月 ",
    "meaning": "달",
    "sound": "월"
  },
  {
+   "level": 7,
    "character": "有 ",
    "meaning": "있을",
    "sound": "유"
  },
  {
+   "level": 6,
    "character": "由 ",
    "meaning": "말미암을",
    "sound": "유"
  },
  {
+   "level": 6,
    "character": "油 ",
    "meaning": "기름",
    "sound": "유"
  },
  {
+   "level": 7,
    "character": "育 ",
    "meaning": "기를",
    "sound": "육"
  },
  {
+   "level": 6,
    "character": "銀 ",
    "meaning": "은",
    "sound": "은"
  },
  {
+   "level": 6,
    "character": "飮 ",
    "meaning": "마실",
    "sound": "음"
  },
  {
+   "level": 6,
    "character": "音 ",
    "meaning": "소리",
    "sound": "음"
  },
  {
+   "level": 7,
    "character": "邑 ",
    "meaning": "고을",
    "sound": "읍"
  },
  {
+   "level": 6,
    "character": "意 ",
    "meaning": "뜻",
    "sound": "의"
  },
  {
+   "level": 6,
    "character": "醫 ",
    "meaning": "의원",
    "sound": "의"
  },
  {
+   "level": 6,
    "character": "衣 ",
    "meaning": "옷",
    "sound": "의"
  },
  {
+   "level": 8,
    "character": "二 ",
    "meaning": "두",
    "sound": "이"
  },
  {
+   "level": 8,
    "character": "人 ",
    "meaning": "사람",
    "sound": "인"
  },
  {
+   "level": 8,
    "character": "日 ",
    "meaning": "해",
    "sound": "일"
  },
  {
+   "level": 8,
    "character": "一 ",
    "meaning": "한",
    "sound": "일"
  },
  {
+   "level": 7,
    "character": "入 ",
    "meaning": "들",
    "sound": "입"
  },
  {
+   "level": 7,
    "character": "字 ",
    "meaning": "글자",
    "sound": "자"
  },
  {
+   "level": 7,
    "character": "自 ",
    "meaning": "스스로",
    "sound": "자"
  },
  {
+   "level": 7,
    "character": "子 ",
    "meaning": "아들",
    "sound": "자"
  },
  {
+   "level": 6,
    "character": "者 ",
    "meaning": "놈",
    "sound": "자"
  },
  {
+   "level": 6,
    "character": "昨 ",
    "meaning": "어제",
    "sound": "작"
  },
  {
+   "level": 6,
    "character": "作 ",
    "meaning": "지을",
    "sound": "작"
  },
  {
+   "level": 8,
    "character": "長 ",
    "meaning": "길",
    "sound": "장"
  },
  {
+   "level": 7,
    "character": "場 ",
    "meaning": "마당",
    "sound": "장"
  },
  {
+   "level": 6,
    "character": "章 ",
    "meaning": "글",
    "sound": "장"
  },
  {
+   "level": 6,
    "character": "才 ",
    "meaning": "재주",
    "sound": "재"
  },
  {
+   "level": 6,
    "character": "在 ",
    "meaning": "있을",
    "sound": "재"
  },
  {
+   "level": 7,
    "character": "電 ",
    "meaning": "번개",
    "sound": "전"
  },
  {
+   "level": 7,
    "character": "前 ",
    "meaning": "앞",
    "sound": "전"
  },
  {
+   "level": 7,
    "character": "全 ",
    "meaning": "온전할",
    "sound": "전"
  },
  {
+   "level": 6,
    "character": "戰 ",
    "meaning": "싸울",
    "sound": "전"
  },
  {
+   "level": 7,
    "character": "正 ",
    "meaning": "바를",
    "sound": "정"
  },
  {
+   "level": 6,
    "character": "庭 ",
    "meaning": "뜰",
    "sound": "정"
  },
  {
+   "level": 6,
    "character": "定 ",
    "meaning": "정할",
    "sound": "정"
  },
  {
+   "level": 8,
    "character": "弟 ",
    "meaning": "아우",
    "sound": "제"
  },
  {
+   "level": 6,
    "character": "第 ",
    "meaning": "차례",
    "sound": "제"
  },
  {
+   "level": 6,
    "character": "題 ",
    "meaning": "제목",
    "sound": "제"
  },
  {
+   "level": 7,
    "character": "祖 ",
    "meaning": "할아버지",
    "sound": "조"
  },
  {
+   "level": 6,
    "character": "朝 ",
    "meaning": "아침",
    "sound": "조"
  },
  {
+   "level": 7,
    "character": "足 ",
    "meaning": "발/족할",
    "sound": "족"
  },
  {
+   "level": 6,
    "character": "族 ",
    "meaning": "겨레",
    "sound": "족"
  },
  {
+   "level": 7,
    "character": "左 ",
    "meaning": "왼",
    "sound": "좌"
  },
  {
+   "level": 7,
    "character": "住 ",
    "meaning": "살",
    "sound": "주"
  },
  {
+   "level": 7,
    "character": "主 ",
    "meaning": "주인",
    "sound": "주"
  },
  {
+   "level": 6,
    "character": "注 ",
    "meaning": "부을",
    "sound": "주"
  },
  {
+   "level": 6,
    "character": "晝 ",
    "meaning": "낮",
    "sound": "주"
  },
  {
+   "level": 8,
    "character": "中 ",
    "meaning": "가운데",
    "sound": "중"
  },
  {
+   "level": 7,
    "character": "重 ",
    "meaning": "무거울",
    "sound": "중"
  },
  {
+   "level": 7,
    "character": "紙 ",
    "meaning": "종이",
    "sound": "지"
  },
  {
+   "level": 7,
    "character": "地 ",
    "meaning": "땅",
    "sound": "지"
  },
  {
+   "level": 7,
    "character": "直 ",
    "meaning": "곧을",
    "sound": "직"
  },
  {
+   "level": 6,
    "character": "集 ",
    "meaning": "모을",
    "sound": "집"
  },
  {
+   "level": 6,
    "character": "窓 ",
    "meaning": "창문",
    "sound": "창"
  },
  {
+   "level": 7,
    "character": "千 ",
    "meaning": "일천",
    "sound": "천"
  },
  {
+   "level": 7,
    "character": "川 ",
    "meaning": "내",
    "sound": "천"
  },
  {
+   "level": 7,
    "character": "天 ",
    "meaning": "하늘",
    "sound": "천"
  },
  {
+   "level": 8,
    "character": "靑 ",
    "meaning": "푸를",
    "sound": "청"
  },
  {
+   "level": 6,
    "character": "淸 ",
    "meaning": "맑을",
    "sound": "청"
  },
  {
+   "level": 6,
    "character": "體 ",
    "meaning": "몸",
    "sound": "체"
  },
  {
+   "level": 7,
    "character": "草 ",
    "meaning": "풀",
    "sound": "초"
  },
  {
+   "level": 8,
    "character": "寸 ",
    "meaning": "마디",
    "sound": "촌"
  },
  {
+   "level": 7,
    "character": "村 ",
    "meaning": "마을",
    "sound": "촌"
  },
  {
+   "level": 7,
    "character": "秋 ",
    "meaning": "가을",
    "sound": "추"
  },
  {
+   "level": 7,
    "character": "春 ",
    "meaning": "봄",
    "sound": "춘"
  },
  {
+   "level": 7,
    "character": "出 ",
    "meaning": "날",
    "sound": "출"
  },
  {
+   "level": 6,
    "character": "親 ",
    "meaning": "친할",
    "sound": "친"
  },
  {
+   "level": 8,
    "character": "七 ",
    "meaning": "일곱",
    "sound": "칠"
  },
  {
+   "level": 6,
    "character": "太 ",
    "meaning": "클",
    "sound": "태"
  },
  {
+   "level": 8,
    "character": "土 ",
    "meaning": "흙",
    "sound": "토"
  },
  {
+   "level": 6,
    "character": "通 ",
    "meaning": "통할",
    "sound": "통"
  },
  {
+   "level": 6,
    "character": "特 ",
    "meaning": "특별할",
    "sound": "특"
  },
  {
+   "level": 8,
    "character": "八 ",
    "meaning": "여덟",
    "sound": "팔"
  },
  {
+   "level": 7,
    "character": "便 ",
    "meaning": "편할/똥오줌",
    "sound": "편/변"
  },
  {
+   "level": 7,
    "character": "平 ",
    "meaning": "평평할",
    "sound": "평"
  },
  {
+   "level": 6,
    "character": "表 ",
    "meaning": "겉",
    "sound": "표"
  },
  {
+   "level": 6,
    "character": "風 ",
    "meaning": "바람",
    "sound": "풍"
  },
  {
+   "level": 7,
    "character": "夏 ",
    "meaning": "여름",
    "sound": "하"
  },
  {
+   "level": 7,
    "character": "下 ",
    "meaning": "아래",
    "sound": "하"
  },
  {
+   "level": 8,
    "character": "學 ",
    "meaning": "배울",
    "sound": "학"
  },
  {
+   "level": 8,
    "character": "韓 ",
    "meaning": "나라이름",
    "sound": "한"
  },
  {
+   "level": 7,
    "character": "漢 ",
    "meaning": "한나라",
    "sound": "한"
  },
  {
+   "level": 6,
    "character": "合 ",
    "meaning": "합할",
    "sound": "합"
  },
  {
+   "level": 7,
    "character": "海 ",
    "meaning": "바다",
    "sound": "해"
  },
  {
+   "level": 6,
    "character": "幸 ",
    "meaning": "다행",
    "sound": "행"
  },
  {
+   "level": 6,
    "character": "行 ",
    "meaning": "다닐/항렬",
    "sound": "행/항"
  },
  {
+   "level": 6,
    "character": "向 ",
    "meaning": "향할",
    "sound": "향"
  },
  {
+   "level": 6,
    "character": "現 ",
    "meaning": "나타날",
    "sound": "현"
  },
  {
+   "level": 8,
    "character": "兄 ",
    "meaning": "형",
    "sound": "형"
  },
  {
+   "level": 6,
    "character": "形 ",
    "meaning": "모양",
    "sound": "형"
  },
  {
+   "level": 6,
    "character": "號 ",
    "meaning": "부르짖을/이름",
    "sound": "호"
  },
  {
+   "level": 8,
    "character": "火 ",
    "meaning": "불",
    "sound": "화"
  },
  {
+   "level": 7,
    "character": "話 ",
    "meaning": "말씀",
    "sound": "화"
  },
  {
+   "level": 7,
    "character": "花 ",
    "meaning": "꽃",
    "sound": "화"
  },
  {
+   "level": 6,
    "character": "和 ",
    "meaning": "화할",
    "sound": "화"
  },
  {
+   "level": 6,
    "character": "畫 ",
    "meaning": "그림/그을",
    "sound": "화/획"
  },
  {
+   "level": 7,
    "character": "活 ",
    "meaning": "살",
    "sound": "활"
  },
  {
+   "level": 6,
    "character": "黃 ",
    "meaning": "누를",
    "sound": "황"
  },
  {
+   "level": 6,
    "character": "會 ",
    "meaning": "모일",
    "sound": "회"
  },
  {
+   "level": 7,
    "character": "孝 ",
    "meaning": "효도",
    "sound": "효"
  },
  {
+   "level": 7,
    "character": "後 ",
    "meaning": "뒤",
    "sound": "후"
  },
  {
+   "level": 6,
    "character": "訓 ",
    "meaning": "가르칠",
    "sound": "훈"
  },
  {
+   "level": 7,
    "character": "休 ",
    "meaning": "쉴",
    "sound": "휴"
